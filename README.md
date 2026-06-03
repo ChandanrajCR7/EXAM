@@ -33,4 +33,3 @@ It performs these steps:
 - `c:/python314/python.exe -m compileall app`
 - `c:/python314/python.exe -m pytest -q`
 - `docker build -t exam-app:test .`
-# EXAM
